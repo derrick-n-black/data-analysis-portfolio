@@ -2,7 +2,7 @@
 
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" subcourse from *Data Analytics Essentials* (Great Learning - The University of Texas at Austin, Texas Executive Education).
-* Declining sales reported at New Wheels company; data analyst insight needed
+* Declining sales reported at New Wheels company; data analyst insight needed.
 * Initial data queries were done using MySQL [here](https://github.com/derrick-n-black/New-Wheels/solution/submission_Derrick_Black.sql).
 * Queries from MySQL were transferred to Microsoft Excel to make visualizations for report.
 * Key metrics, visualizations, and recommendations were given in a [Quarterly Business Report](https://github.com/derrick-n-black/New-Wheels/solution/submission_Derrick_Black_Slides.pdf).
