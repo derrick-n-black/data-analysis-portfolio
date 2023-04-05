@@ -10,4 +10,5 @@ This project was from the "Data Analytics with SQL" subcourse from *Data Analyti
 
 # [Data-driven Insights using Python - FoodHub Case Study](https://github.com/derrick-n-black/FoodHub)
 This project was from the "Data-driven Insights using Python" subcourse from *Data Analytics Essentials* (Great Learning - The University of Texas at Austin, Texas Executive Education).
+* Data from FoodHub food delivery service was used to gain insights regarding customer demand and improving the customer experience.
 * 
