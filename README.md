@@ -4,7 +4,9 @@
 This was my final graduate research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
 * Backpack Beginnings, a nonprofit providing food services to schoolchildren, is looking to expand to new local schools.
 * Initial data cleaning was done in Excel; analysis and predictive modeling done in RStudio.
-* Findings and recommendations
+* Full version of findings and recommendations (for Department of Mathematics) can be viewed [here](Backpack%20Beginnings/Black,%20D.%20-%20Investigating%20the%20Current%20Trend%20and%20Predicting%20the%20Future%20Needs%20for%20BackPack%20Programs%20-%20BackPack%20Beginnings%20in%20Guilford%20County,%20North%20Carolina.pdf).
+* Shortened, published version of findings and recommendations (for 2019 International Conference on Data Science) can be viewed [here](https://par.nsf.gov/servlets/purl/10108840).
+* This project was supported by the National Science Foundation National Research Traineeship Project: Improving Strategies for Hunger Relief and Food Security using Computational Data Science ([Award No. DGE-1735258](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735258)).
 
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
