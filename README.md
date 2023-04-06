@@ -26,6 +26,6 @@ This project was from the "Data-driven Insights using Python" course from the *D
 # [Creative Storytelling with Tableau - Gamers' Arena Case Study](https://github.com/derrick-n-black/Gamers-Arena)
 This project was from the "Creative Storytelling with Tableau" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
 * Data analyst insight needed for decision regarding a new subscription model.
-* Interactive visualization dashboard, created with Tableau, [here](https://public.tableau.com/app/profile/derrick.black/viz/Project-GamersArena-DerrickBlack/GamersArenaDashboard?publish=yes).
+* Interactive visualization dashboard, created with Tableau, is available [here](https://public.tableau.com/app/profile/derrick.black/viz/Project-GamersArena-DerrickBlack/GamersArenaDashboard?publish=yes).
 * This project allowed me to show creativity in selecting the types of visualizations used and in designing the overall layout of the dashboard.
 * Skills acquired and strengthened in this project include the application of filters, parameters, calculated fields, etc. to allow users to alter dashboards to highlight their areas of interest.
