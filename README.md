@@ -1,5 +1,10 @@
 # Derrick's Data Analysis Portfolio
 
+# [Backpack Beginnings Data Analysis Project](https://github.com/derrick-n-black/Backpack-Beginnings)
+This was my final graduate research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
+* Backpack Beginnings, a nonprofit providing food services to schoolchildren, is looking to expand to new local schools.
+* Data cleaning
+
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
 * Declining sales reported at New Wheels company; data analyst insight needed.
