@@ -1,7 +1,7 @@
 # Derrick's Data Analysis Portfolio
 
 # [Backpack Beginnings Data Analysis Project](https://github.com/derrick-n-black/Backpack-Beginnings)
-This was my final graduate research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
+This was my final graduate school research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
 * [Backpack Beginnings](https://backpackbeginnings.org), a nonprofit providing food services to schoolchildren, is looking to expand to new local schools.
 * Initial data cleaning was done in Excel; analysis and predictive modeling done in RStudio.
 * A [full version](Backpack%20Beginnings/Black,%20D.%20-%20Investigating%20the%20Current%20Trend%20and%20Predicting%20the%20Future%20Needs%20for%20BackPack%20Programs%20-%20BackPack%20Beginnings%20in%20Guilford%20County,%20North%20Carolina.pdf) of findings and recommendations was submitted to the Department of Mathematics and Backpack Beginnings.
