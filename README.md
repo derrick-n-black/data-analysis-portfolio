@@ -2,7 +2,7 @@
 
 # [Backpack Beginnings Data Analysis Project](https://github.com/derrick-n-black/Backpack-Beginnings)
 This was my final graduate school research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
-* [Backpack Beginnings](https://backpackbeginnings.org), a nonprofit providing food services to schoolchildren, is looking to expand to new local schools.
+* [Backpack Beginnings](https://backpackbeginnings.org), a nonprofit providing food services to schoolchildren, was looking to expand to new local schools.
 * Initial data cleaning was done in Excel; analysis and predictive modeling done in RStudio.
 * A [full version](Backpack%20Beginnings/Black,%20D.%20-%20Investigating%20the%20Current%20Trend%20and%20Predicting%20the%20Future%20Needs%20for%20BackPack%20Programs%20-%20BackPack%20Beginnings%20in%20Guilford%20County,%20North%20Carolina.pdf) of findings and recommendations was submitted to the Department of Mathematics and Backpack Beginnings.
 * A [shortened version](https://par.nsf.gov/servlets/purl/10108840) of findings and recommendations was submitted for publication as part of the 2019 International Conference on Data Science in Las Vegas, NV.
@@ -10,6 +10,8 @@ This was my final graduate school research project, submitted to the Department 
 
 # [Data Merging and Matching with RStudio](https://github.com/derrick-n-black/Data-Merge-and-Match)
 This was a freelance data analysis project I completed for the Associate Director, Clinical Data Management of a pharmaceutical company.
+* A source data file of clinical trial visits needed to be compared to a secondary data file of visits for date, time, and visit type. Source file rows that did not match with any secondary file rows were to be stored in a new file and exported to CSV.
+* Data cleaning, merging, and matching was performed in RStudio.
 
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
