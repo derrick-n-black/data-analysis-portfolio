@@ -1,7 +1,7 @@
 # Derrick's Data Analysis Portfolio
 
 # [Backpack Beginnings Data Analysis Project](https://github.com/derrick-n-black/Backpack-Beginnings)
-This was my final graduate school research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science in Applied Mathematics.
+This was my final graduate school research project, submitted to the Department of Mathematics at North Carolina Agricultural & Technical State University as a requirement of graduation for the Master of Science degree in Applied Mathematics.
 * [Backpack Beginnings](https://backpackbeginnings.org), a nonprofit providing food services to schoolchildren, was looking to expand to new local schools.
 * Initial data cleaning was done in Excel; analysis and predictive modeling done in RStudio.
 * A [full version](Backpack%20Beginnings/Black,%20D.%20-%20Investigating%20the%20Current%20Trend%20and%20Predicting%20the%20Future%20Needs%20for%20BackPack%20Programs%20-%20BackPack%20Beginnings%20in%20Guilford%20County,%20North%20Carolina.pdf) of findings and recommendations was submitted to the Department of Mathematics and Backpack Beginnings.
@@ -13,7 +13,7 @@ This was a freelance data analysis project I completed for the Associate Directo
 * A source data file of clinical trial visits needed to be compared to a secondary data file of visits for date, time, and visit type. Source file rows that did not match with any secondary file rows were to be stored in a new file and exported to CSV.
 * [Data cleaning, merging, and matching](https://github.com/derrick-n-black/data-analysis-portfolio/blob/main/Data%20Merge%20and%20Match/Data%20Merging%20and%20Matching%20Project.R) were performed in RStudio.
 * Upon completion of the coding aspect of the project, findings and recommendations were reported to the Associate Director, who found the new information revealed from my work to be exceptional and insightful.
-* This project gave me valuable experience with string concatenation.
+* This project gave me valuable experience with dataset merging, date manipulation, string concatenation, and coding match criteria.
 
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
