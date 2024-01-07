@@ -8,6 +8,9 @@ This was my final graduate school research project, submitted to the Department 
 * A [shortened version](https://par.nsf.gov/servlets/purl/10108840) of findings and recommendations was submitted for publication as part of the 2019 International Conference on Data Science in Las Vegas, NV.
 * This project was supported by the National Science Foundation National Research Traineeship Project: Improving Strategies for Hunger Relief and Food Security using Computational Data Science ([Award No. DGE-1735258](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735258)).
 
+# [Data Merging and Matching with RStudio](https://github.com/derrick-n-black/Data-Merge-and-Match)
+This was a freelance data analysis project I completed for the Associate Director, Clinical Data Management of a pharmaceutical company.
+
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
 * Declining sales reported at New Wheels company; data analyst insight needed.
