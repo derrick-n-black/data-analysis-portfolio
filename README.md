@@ -11,7 +11,9 @@ This was my final graduate school research project, submitted to the Department 
 # [Data Merging and Matching with RStudio](https://github.com/derrick-n-black/Data-Merge-and-Match)
 This was a freelance data analysis project I completed for the Associate Director, Clinical Data Management of a pharmaceutical company.
 * A source data file of clinical trial visits needed to be compared to a secondary data file of visits for date, time, and visit type. Source file rows that did not match with any secondary file rows were to be stored in a new file and exported to CSV.
-* [Data cleaning, merging, and matching](https://github.com/derrick-n-black/data-analysis-portfolio/blob/main/Data%20Merge%20and%20Match/Data%20Merging%20and%20Matching%20Project.R) was performed in RStudio.
+* [Data cleaning, merging, and matching](https://github.com/derrick-n-black/data-analysis-portfolio/blob/main/Data%20Merge%20and%20Match/Data%20Merging%20and%20Matching%20Project.R) were performed in RStudio.
+* Upon completion of the coding aspect of the project, findings and recommendations were reported to the Associate Director, who found the new information revealed from my work to be exceptional and insightful.
+* This project gave me valuable experience with string concatenation.
 
 # [Data Analytics with SQL - New Wheels Case Study](https://github.com/derrick-n-black/New-Wheels)
 This project was from the "Data Analytics with SQL" course from the *Data Analytics Essentials* program (Great Learning - The University of Texas at Austin, Texas Executive Education).
